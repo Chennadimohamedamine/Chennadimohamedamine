@@ -13,7 +13,8 @@
 </div>
 
 ---
-
+[![mochenna's 42 stats](https://badge.mediaplus.ma/levi/mochenna)](https://github.com/oakoudad/badge42)
+---
 ## 🎯 About Me
 
 ```c
