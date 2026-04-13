@@ -20,6 +20,4 @@
 <a href="mailto:chennadimohamedamine0x@gmail.com">
   <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=mail.ru&logoColor=00FF00" alt="Email" />
 </a>
-
-<br><br>
 </div>
