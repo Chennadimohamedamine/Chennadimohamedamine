@@ -9,7 +9,7 @@
 ### Establish Connection
 <!-- Minimalist Flat Badges -->
 <a href="https://chennadi-mohamedamine.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=00FF00" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=ffffff" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/mohamedaminechennadi">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=00FF00" alt="LinkedIn" />
