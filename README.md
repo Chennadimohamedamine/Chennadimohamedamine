@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=ffffff" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/mohamedaminechennadi">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=00FF00" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
 </a>
 <a href="https://github.com/Chennadimohamedamine">
   <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=00FF00" alt="GitHub" />
