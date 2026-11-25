@@ -8,7 +8,7 @@
 
 ### Establish Connection
 <!-- Minimalist Flat Badges -->
-<a href="https://chennadi-mohamedamine.netlify.app/">
+<a href="https://chennadimohamedamine.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=netlify&logoColor=00FF00" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/mohamedaminechennadi">
